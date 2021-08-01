@@ -1,0 +1,100 @@
+.css{
+    display: flex;
+    margin: auto;
+    align-items: center;
+    width: 60vw;
+    max-width: 50vh;
+}
+.fh{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 112px);
+    flex-direction: column;
+    margin-top: 6.5%;
+    background-image:url('wall.jpeg');
+    background-size: cover;
+}
+.as{
+    background:linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+    font-family: calibri;
+    color:lavender;
+}
+.gg{
+    color:midnightblue;
+}
+#td:hover{
+    font-weight: bold;
+    color: midnightblue !important;
+}
+
+#td{
+    text-decoration: none;
+    color: white;
+}
+
+.ak
+{
+    background:linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+    
+    /* display: flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: column; */
+   height:250px;
+   text-align: center;
+   justify-content: space-evenly;
+   display: flex;
+}
+.bg-custom-2 {
+    background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+    }
+
+
+.box{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    width: 100% !important;
+    margin: 0;
+    padding: 0;
+    background-image: url("wall.jpeg");
+    background-size: cover;
+   
+}
+
+.boxe{
+    background-color: blue;
+    margin: 10px;
+    text-align: center;
+    height: 8em;
+    flex: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(15deg, #ff6e7f 0%,
+    #bfe9ff 100%);
+    font-weight: bold;
+    font-size: 40px;
+    border-radius: 25px; 
+}
+#oo
+{
+    background:linear-gradient(90deg,#ff9966,#ff5e62);
+    color:white;  
+}
+#oj
+{
+    background:linear-gradient(90deg, #1488cc, #2b32b2);
+}
+#po
+{
+    background:linear-gradient(90deg,#ec008c ,#fc6767);
+}
+#lj
+{
+    background: linear-gradient(15deg,#00b4db,#0083b0);
+}
+#am{
+    font-size: 30px;
+}
