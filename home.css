@@ -98,3 +98,16 @@
 #am{
     font-size: 30px;
 }
+/* @media screen and (max width:320px){
+    .nj{
+    flex-direction: column;
+    }
+    .box{
+        flex: 50%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .jk{
+        flex: 100%;
+    }
+} */
